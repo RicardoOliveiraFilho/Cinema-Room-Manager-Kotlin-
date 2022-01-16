@@ -16,7 +16,7 @@
               <args>
                 <arg>$MODULE_DIR$/../../../../Cinema Room Manager/task/build/classes/kotlin/main</arg>
                 <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jdk8/1.5.20/636c5653641cd956de9aee5792155b07ea49825e/kotlin-stdlib-jdk8-1.5.20.jar</arg>
-                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.hyperskill/hs-test/release-SNAPSHOT/1019a8b30eb691274364dec2922be379fc449440/hs-test-release-SNAPSHOT.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.hyperskill/hs-test/release-SNAPSHOT/4e9010a65557a3f92b1d17b849daee4d0ecd34e2/hs-test-release-SNAPSHOT.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jdk7/1.5.20/218b60e1d446d1e0a18bc7aa8663634b136fbcc5/kotlin-stdlib-jdk7-1.5.20.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.5.20/9de35cc611bcecec8edce1d56d8e659953806751/kotlin-stdlib-1.5.20.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.assertj/assertj-swing-junit/3.9.2/bfb268835c0e94cbe50bf0277864ff4f7467cb34/assertj-swing-junit-3.9.2.jar</arg>
